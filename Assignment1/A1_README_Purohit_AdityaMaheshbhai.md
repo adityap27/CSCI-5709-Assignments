@@ -339,7 +339,7 @@ The code above was created by adapting the code in [Navbars - Official Tailwind 
 *Lines 04 - 18*
 
 ```
-    <footer className="bg-sky-700 rounded-lg shadow mt-2">
+    <footer className="bg-sky-700 shadow mt-2">
       <div className="w-full mx-auto max-w-screen p-4 flex flex-col md:flex-row items-center justify-between">
         <span className="text-sm text-white sm:text-center ">
           © 2024{" "}
